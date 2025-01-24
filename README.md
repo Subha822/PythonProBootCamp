@@ -11,3 +11,4 @@ Day 06 | ESCAPING THE MAZE | [Link](https://github.com/Subha822/Python_Pro_BootC
 Day 10 | CALCULATOR | [Link](https://github.com/Subha822/Python_Pro_BootCamp/blob/main/Day_10/Calculator.py)
 Day 56 | NAME CARD | [Link](https://github.com/Subha822/Python_Pro_BootCamp/blob/main/Day_56/html5identity.py)
 Day 57 | BLOG | [Link](https://github.com/Subha822/Python_Pro_BootCamp/blob/main/Day_57/main.py)
+Day 72 | Data_Exploration_Pandas_College_Major | [Link](https://github.com/Subha822/Python_Pro_BootCamp/blob/main/Day_72/Data_Exploration_Pandas_College_Major.ipynb)
