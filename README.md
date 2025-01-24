@@ -9,7 +9,7 @@ Day 04 | Rock_Paper_Scissor                    | $${\color{orange}Pending}$$ |[L
 Day 05 | Password_Generator                    | $${\color{orange}Pending}$$ |[Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_05/Password_Generator.py) 
 Day 06 | Escaping_The_Maze                     | $${\color{orange}Pending}$$ |[Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_06/Escaping_The_Maze.py) 
 Day 10 | Calculator                            | $${\color{orange}Pending}$$ |[Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_10/Calculator.py) 
-Day 43 | Data_Entry_Automation                 | $${\color{green}Completed}$$  |[Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_53/Data_Entry_Automation.py) 
+Day 48 | Data_Entry_Automation                 | $${\color{green}Completed}$$  |[Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_48/Data_Entry_Automation.py) 
 Day 56 | Name_Card                             | $${\color{green}Completed}$$  |[Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_56/html5identity.py) 
 Day 57 | Blog                                  | $${\color{green}Completed}$$  |[Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_57/main.py) 
 Day 72 | Data_Exploration_Pandas_College_Major | $${\color{green}Completed}$$  |[Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_72/Data_Exploration_Pandas_College_Major.ipynb) 
