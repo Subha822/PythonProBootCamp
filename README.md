@@ -47,7 +47,7 @@ Day 42 | Project_Name                          | $${\color{orange}Pending}$$ |[L
 Day 43 | Project_Name                          | $${\color{orange}Pending}$$ |[Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_06/Escaping_The_Maze.py) 
 Day 44 | Project_Name                          | $${\color{orange}Pending}$$ |[Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_06/Escaping_The_Maze.py) 
 Day 45 | 100GreatestMovies                     | $${\color{green}Completed}$$  |[Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_45/100GreatestMovies.py) 
-Day 46 | Project_Name                          | $${\color{orange}Pending}$$ |[Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_06/Escaping_The_Maze.py) 
+Day 46 | Musical_Time_Machine_Spotify          |$${\color{green}Completed}$$  |[Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_46/Musical_Time_Machine_Spotify.py) 
 Day 47 | Project_Name                          | $${\color{orange}Pending}$$ |[Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_06/Escaping_The_Maze.py)
 Day 48 | Data_Entry_Automation                 | $${\color{green}Completed}$$  |[Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_48/Data_Entry_Automation.py) 
 Day 49 | Project_Name                          | $${\color{orange}Pending}$$ |[Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_06/Escaping_The_Maze.py) 
