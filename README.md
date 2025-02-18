@@ -10,7 +10,7 @@ Day 05 | Password_Generator                    | $${\color{orange}Pending}$$ |[L
 Day 06 | Escaping_The_Maze                     | $${\color{orange}Pending}$$ |[Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_06/Escaping_The_Maze.py) 
 Day 07 | Project_Name                          | $${\color{orange}Pending}$$ |[Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_06/Escaping_The_Maze.py) 
 Day 08 | Project_Name                          | $${\color{orange}Pending}$$ |[Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_06/Escaping_The_Maze.py) 
-Day 09 | Blind Auction                         | $${\color{green}Completed}$$ |[Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_07/Blind_Auction.py)
+Day 09 | Blind_Auction                         | $${\color{green}Completed}$$ |[Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_07/Blind_Auction.py)
 Day 10 | Calculator                            | $${\color{orange}Pending}$$ |[Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_10/Calculator.py) 
 Day 11 | Project_Name                          | $${\color{orange}Pending}$$ |[Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_06/Escaping_The_Maze.py) 
 Day 12 | Project_Name                          | $${\color{orange}Pending}$$ |[Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_06/Escaping_The_Maze.py) 
