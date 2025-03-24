@@ -8,7 +8,7 @@ Day 03 | Treasure_Island                       | $${\color{green}Completed}$$  |
 Day 04 | Rock_Paper_Scissor                    | $${\color{green}Completed}$$ |[Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_04/Rock_Paper_Scissors.py) 
 Day 05 | Password_Generator                    | $${\color{green}Completed}$$ |[Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_05/Password_Generator.py) 
 Day 06 | Escaping_The_Maze                     | $${\color{green}Completed}$$ |[Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_06/Escaping_The_Maze.py) 
-Day 07 | Blind_Auction                        | $${\color{green}Completed}$$ |[Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_07/Blind_Auction.py) 
+Day 07 | Hangman                        | $${\color{green}Completed}$$ |[Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_07/Hangman.py) 
 Day 08 | Caesar_Cipher                         | $${\color{green}Completed}$$  |[Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_08/Caesar_Cipher.py) 
 Day 09 |  Project_Name                         | $${\color{orange}Pending}$$ |[Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_07/Blind_Auction.py)
 Day 10 | Calculator                            | $${\color{orange}Pending}$$ |[Link](https://github.com/Subha822/PythonProBootCamp/blob/main/Day_10/Calculator.py) 
